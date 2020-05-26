@@ -5,10 +5,10 @@
 In Git Bash navigate to the project diractory:
 
 ```
-pip3 install virtualenv             # install virtualenv
+pip install virtualenv             # install virtualenv
 virtualenv venv                     # setup a new virtual environment called venv
 source venv/Scripts/activate        # activate the new environment
-pip3 install -r requirements.txt    # install dependencies
+pip install -r requirements.txt    # install dependencies
 ```
 
 
